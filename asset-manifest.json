@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomThemes/static/css/main.98d92de2.css",
+    "main.js": "/randomThemes/static/js/main.b61ca6a4.js",
+    "index.html": "/randomThemes/index.html",
+    "main.98d92de2.css.map": "/randomThemes/static/css/main.98d92de2.css.map",
+    "main.b61ca6a4.js.map": "/randomThemes/static/js/main.b61ca6a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d92de2.css",
+    "static/js/main.b61ca6a4.js"
+  ]
+}
